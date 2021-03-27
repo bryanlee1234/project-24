@@ -29,7 +29,7 @@ class Iron{
 			stroke("black");
 			fill("darkblue");
 			//draw the ellipse here to display the rubber ball
-			rect(0,0,this.width,this,height)
+			rect(0,0,this.width,this.height)
 			pop()
 	}
 
